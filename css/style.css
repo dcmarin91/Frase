@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(purple, HotPink) no-repeat center;
+    background-size: 1400px;
+    font-family: 'Merriweather', serif;
+
+}
+
+.frase{
+    font-size: 25px;
+    color: Steelblue;
+    background-color: white;
+    margin: 150px;
+    padding: 60px;;
+    border-radius: 20px;
+    box-shadow: 7px 7px 15px black; 
+    text-shadow: 2px 2px 2px #32CD32;
+    transform: skewY(-10deg);
+}
